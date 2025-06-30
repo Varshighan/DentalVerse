@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/allinone.unity
+    guid: b0ae7bb061dcf5743b0ebdb5a53ceb9e
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/MainOpening.unity
+    guid: 5a7638c4857fd25428ebfe2f798b5b0e
+  - enabled: 0
+    path: Assets/Scenes/teeth_16th.unity
+    guid: c4cb1c8140d23eb43afc7f90c481397d
+  - enabled: 0
+    path: Assets/Scenes/tooth_16th.unity
+    guid: 3b5f4f6e5894019409bb349aafdccf15
+  - enabled: 0
+    path: Assets/Scenes/Tooth_Extraction.unity
+    guid: 9de2b1d763f650d43984e9bcb804587d
+  - enabled: 0
+    path: Assets/Scenes/ToothTeeth.unity
+    guid: 0540e07d7e7f1ce4aa10bef0f0c118b4
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7a6fb7e9ef909a44184f72226bdbd9a1, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: df84d8ff42e76b2418078b4f783b362d, type: 2}
